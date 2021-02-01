@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shohnaul Alam</h1>
-<h3 align="center">Passionate Web Developer, Laravel and Github addicted, CodeIgniter was first love, interested in big scale, learning scalability and all interesting stuff</h3>
+<h3 align="center">Passionate Web Developer, Laravel and Github addicted, CodeIgniter was first love, interested in big scale, learning scalability and all interesting stuffs</h3>
 
 <p align="left"> <a href="https://twitter.com/cactus494" target="blank"><img src="https://img.shields.io/twitter/follow/cactus494?logo=twitter&style=for-the-badge" alt="cactus494" /></a> </p>
 
