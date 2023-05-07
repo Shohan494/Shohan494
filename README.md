@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Conocido B.V.](https://conocido.nl/)
 
-- 🌱 I’m currently learning **Flutter, Vue**
+- 🌱 I’m currently learning **React and some more interesting stuffs**
 
 - 💬 Ask me about **Laravel, CodeIgniter, Php**
 
