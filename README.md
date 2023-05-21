@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working @ [Conocido B.V.](https://conocido.nl/) as Senior Fullstack Developer
 
-- 🌱 I’m currently learning **React and some more interesting stuffs**
+- 🌱 I’m currently learning **ds algo and some more interesting stuffs**
 
 - 💬 Ask me about **Laravel, CodeIgniter, Php**
 
