@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Shohnaul Alam</h1>
-<h3 align="center">Passionate Web Developer, Laravel and Github addicted, CodeIgniter was first love, interested in big scale, learning scalability and all interesting stuffs</h3>
+<h3 align="center">Passionate Web Developer, Laravel and Github addicted, CodeIgniter was first love, interested in big scale, learning scalability and all interesting stuffs mostly related to web technologies</h3>
 
 <p align="left"> <a href="https://twitter.com/cactus494" target="blank"><img src="https://img.shields.io/twitter/follow/cactus494?logo=twitter&style=for-the-badge" alt="cactus494" /></a> </p>
 
-- 🔭 I’m currently working @ [Conocido B.V.](https://conocido.nl/) as Senior Fullstack Developer
+- 🔭 I’m currently working @ [Conocido B.V.](https://conocido.nl/) as **Senior Fullstack Developer**
 
-- 🌱 I’m currently learning and practicing **ds algo and problem solving** and also about large scale system design
+- 🌱 I’m currently practicing **ds algo and problem solving** and also learning **about large scale system design**
 
 - 💬 Ask me about **Laravel, CodeIgniter, Php**
 
