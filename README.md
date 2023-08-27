@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/cactus494" target="blank"><img src="https://img.shields.io/twitter/follow/cactus494?logo=twitter&style=for-the-badge" alt="cactus494" /></a> </p>
 
-- 🔭 I’m currently working at [Conocido B.V.](https://conocido.nl/) as **Senior Fullstack Developer**
+- 🔭 I’m currently working at [Conocido B.V.](https://conocido.nl/) as **Senior Backend Heavy Fullstack Developer**
 
 - 🌱 I’m currently practicing **ds algo and problem solving, learning react + react native** and also learning **about large scale system design**
 
