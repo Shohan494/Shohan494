@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working at [Conocido B.V.](https://conocido.nl/) as **Senior Backend Heavy Fullstack Developer**
 
-- 🌱 I’m currently practicing **ds algo and problem solving, learning react + react native** and also learning **about large scale system design**
+- 🌱 I’m currently learning **about large scale system design, scalability and more**
 
 - 💬 Ask me about **Laravel, CodeIgniter, Php**
 
